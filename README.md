@@ -9,6 +9,7 @@
 - To use this notes download the code and extract the folder C-Pro.
 - Copy the folder to your Obsidian vault wherever that is located and then when you will open obsidian you will be able to use it :)
 - Some of the screenshots:
-- ![image](https://github.com/MostlyKIGuess/C-Pro-/assets/135974627/5f1ec125-2989-4795-825a-bd2e044bdaa3)
-- ![image](https://github.com/MostlyKIGuess/C-Pro-/assets/135974627/9f950ecd-68af-4fa3-a39f-c158f842dd5b)
+- ![image](https://github.com/MostlyKIGuess/C-Pro-/assets/135974627/66d88a83-03a2-4eb9-9b91-f31afcc3bf77)
+
+- ![image](https://github.com/MostlyKIGuess/C-Pro-/assets/135974627/5e2d7f48-048f-4cce-a977-266e9cabb7a3)
 
