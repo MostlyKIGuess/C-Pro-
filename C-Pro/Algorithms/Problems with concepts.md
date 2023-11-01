@@ -1,0 +1,2 @@
+- https://www.geeksforgeeks.org/next-permutation/
+- 
