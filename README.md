@@ -12,4 +12,5 @@
 - ![image](https://github.com/MostlyKIGuess/C-Pro-/assets/135974627/66d88a83-03a2-4eb9-9b91-f31afcc3bf77)
 
 - ![image](https://github.com/MostlyKIGuess/C-Pro-/assets/135974627/5e2d7f48-048f-4cce-a977-266e9cabb7a3)
-
+- Oops forgot to update the new graph, here is the current one:
+- ![image](https://github.com/MostlyKIGuess/C-Pro-/assets/135974627/9d4f0d84-47e2-4b21-80d0-95e896746606)
